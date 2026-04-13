@@ -1,5 +1,8 @@
 # producthunt-launch-kit
 
+<img width="1280" height="640" alt="producthunt-launch-kit" src="https://github.com/user-attachments/assets/dc16bde9-9bc4-4022-94a8-a4db024cbd95" />
+
+
 Generates a complete Product Hunt launch kit from your product description: tagline variants (60 chars max), listing description, maker comment, launch day tweet thread, LinkedIn post, and a 4-email sequence.
 
 ## What It Does
